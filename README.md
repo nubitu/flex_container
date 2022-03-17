@@ -1,3 +1,3 @@
 # flex_container
-just flexing ....ya know 
-doing flex containers
+just flexing my containers....ya know 
+
